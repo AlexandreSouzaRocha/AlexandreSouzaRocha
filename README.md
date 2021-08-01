@@ -1,16 +1,18 @@
-### Hi there 👋
+##### Alexandre S. Rocha
+***
+<div> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlexandreSouzaRocha&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSouzaRocha&lang_count=7&layout=compact&theme=react" />
+</div>
 
-<!--
-**AlexandreSouzaRocha/AlexandreSouzaRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
 
-Here are some ideas to get you started:
+#### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/AlexandreSouzaRocha/docker">
+    <img height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreSouzaRocha&repo=docker&theme=react" >
+  </a>
+</div>
+
+***
