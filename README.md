@@ -20,10 +20,10 @@ Professional Qualification: https://www.linkedin.com/in/alexandre-rocha-308614b3
 <br>
 <div>
   <a href="https://www.linkedin.com/in/alexandre-rocha-308614b3/">
-  <img height="42em" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&" />
+  <img alt="LinkedIn Profile" height="42em" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&" />
   </a>
   <a href="https://www.instagram.com/4lexandre.sr/">
-  <img height="42em" src="https://i0.wp.com/trucao.com.br/wp-content/uploads/2018/07/instagram-logo.png?fit=1200%2C1200&ssl=1" />
+  <img alt="Instagram Profile" height="42em" src="https://i0.wp.com/trucao.com.br/wp-content/uploads/2018/07/instagram-logo.png?fit=1200%2C1200&ssl=1" />
   </a>
 </div>
 <br/>
@@ -34,8 +34,8 @@ Professional Qualification: https://www.linkedin.com/in/alexandre-rocha-308614b3
 
 <br/>
 <div> 
-  <img height="260em" src="https://github-readme-stats.vercel.app/api?username=AlexandreSouzaRocha&show_icons=true&theme=dracula&include_all_commits=false&count_private=true&custom_title=Github Stats" />
-  <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSouzaRocha&lang_count=10&layout=compact&theme=dracula" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AlexandreSouzaRocha&show_icons=true&theme=dracula&include_all_commits=false&count_private=true&custom_title=Github Stats" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSouzaRocha&lang_count=10&layout=compact&theme=dracula" />
 </div>
 <br/>
 
