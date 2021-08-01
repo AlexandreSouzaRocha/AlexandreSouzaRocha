@@ -43,7 +43,7 @@ Languages:
 
 ## <b>nodejs-rest-api</b>
 
-```text
+```
 This repository Im using to learn about the design pattern's fluent interface and facade. The main idea is build a simple query builder implementing this two design patterns and using unitary tests with mocha, chai and sinon.
 ```
 <br/>
@@ -57,7 +57,7 @@ This repository Im using to learn about the design pattern's fluent interface an
 
 ## <b>typescript-rest-api</b>
 
-```text
+```
 This repository Im using to learn about the typescript tool kit for the javascript language and learn AWS for try a AWS Certified Solutions Architect Associate certfication. The main idea of this project is learn about the typescript features and AWS. Next steps: Deploy on AWS Lambda using API Gateway and do unitary tests using jest framework
 ```
 <br/>
@@ -71,7 +71,7 @@ This repository Im using to learn about the typescript tool kit for the javascri
 
 ## <b>python-rest-api</b>
 
-```text
+```
 This repository I used to learn about Rest API's with the flask framework with python and learn about concurrency using the python library asyncio for parallel requests. This project is a sample that use flask and SQLAchemy to build a rest API and execute the database migrations.
 ```
 <br/>
@@ -85,13 +85,13 @@ This repository I used to learn about Rest API's with the flask framework with p
 
 ## <b>java-rest-api</b>
 
-```text
+```
 This reposiory I used to learn about the Rest API's with java and Spring Boot on the udemy course: https://www.udemy.com/course/spring-web-services-tutorial.
 ```
 <br/>
 <div>
   <a href="https://github.com/AlexandreSouzaRocha/java-rest-api">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreSouzaRocha&repo=java-rest-api&theme=react&show_owner=true" >
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreSouzaRocha&repo=java-rest-api&theme=dracula&show_owner=true" >
   </a>
 </div>
 
@@ -135,4 +135,22 @@ Below we have the technologies used on the projects mentioned above.
 - Python:
     - Version: `>=3.X`
     - Download: https://www.python.org/downloads/
+<!--te-->
+
+# <b>Next Steps</b> :computer:
+Below we have my next knowledges to learn:
+- AWS:
+    - Solutions Architect Associate Certification 
+- Data Structures:
+    - Sort Types, Graphs, Binary Trees etc.
+- Javascript:
+    - Advanced concepts
+- Typescript:
+    - Advanced concepts
+- Design Pattern's
+    - Factory Method
+    - Fluent Interface and Facade
+    - Builder Pattern
+
+
 <!--te-->
