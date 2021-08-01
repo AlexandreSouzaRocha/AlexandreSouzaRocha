@@ -2,7 +2,7 @@
 
 ---
 
-## <b>About Me</b>
+## <b>About Me</b> :metal:
 <b>
 
 ```text
@@ -15,7 +15,7 @@ Professional Qualification: https://www.linkedin.com/in/alexandre-rocha-308614b3
 
 </b>
 
-## <b>Social Media</b>
+## <b>Social Media</b> :eyes:
 
 <br>
 <div>
@@ -28,7 +28,7 @@ Professional Qualification: https://www.linkedin.com/in/alexandre-rocha-308614b3
 </div>
 <br/>
 
-## <b>Github Stats and Programming Languages</b>
+## <b>Github Stats and Programming Languages</b>  <img height="44em" src="https://logospng.org/download/node-js/logo-node-js-1024.png"/> <img height="42em" src="https://marcas-logos.net/wp-content/uploads/2020/11/Java-logo.png"/> <img height="36em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"/>
 
 ---
 
@@ -41,7 +41,7 @@ Professional Qualification: https://www.linkedin.com/in/alexandre-rocha-308614b3
 
 ---
 
-# <b>Projects</b>
+# <b>Projects</b> :computer:
 
 ---
 
