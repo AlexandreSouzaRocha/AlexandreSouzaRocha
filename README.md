@@ -51,9 +51,9 @@ Professional Qualification: https://www.linkedin.com/in/alexandre-rocha-308614b3
 
 <br/>
 
-|                                                           Typescript Rest API                                                            |                                                           Python Rest API                                                            |
+|                                                           Typescript Rest API                                                            |                                                           Factory Method Pattern Example                                                            |
 | :--------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
-| ![](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreSouzaRocha&repo=typescript-rest-api&theme=dracula&show_owner=true) | ![](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreSouzaRocha&repo=python-rest-api&theme=dracula&show_owner=true) |
+| ![](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreSouzaRocha&repo=typescript-rest-api&theme=dracula&show_owner=true) | ![](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreSouzaRocha&repo=poc-java-factory-pattern&theme=dracula&show_owner=true) |
 
 ---
 
