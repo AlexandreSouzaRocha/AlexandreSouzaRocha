@@ -45,15 +45,15 @@ Professional Qualification: https://www.linkedin.com/in/alexandre-rocha-308614b3
 
 ---
 
-| [NodeJS Rest API](https://github.com/AlexandreSouzaRocha/nodejs-rest-api) | [Java Rest API](https://github.com/AlexandreSouzaRocha/java-rest-api) |
+| [NodeJS Rest API](https://github.com/AlexandreSouzaRocha/nodejs-rest-api) | [POC Factory Method](https://github.com/AlexandreSouzaRocha/poc-java-factory-pattern) |
 | :-----------------------------------------------------------------------: | :-------------------------------------------------------------------: |
 | ![](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreSouzaRocha&repo=nodejs-rest-api&theme=dracula&show_owner=true) |![](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreSouzaRocha&repo=java-rest-api&theme=dracula&show_owner=true) |
 
 <br/>
 
-| [Typescript Rest API](https://github.com/AlexandreSouzaRocha/typescript-rest-api) | [Python Rest API](https://github.com/AlexandreSouzaRocha/python-rest-api) |
-| :-------------------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
-| ![](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreSouzaRocha&repo=typescript-rest-api&theme=dracula&show_owner=true) | ![](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreSouzaRocha&repo=python-rest-api&theme=dracula&show_owner=true) |
+| [Typescript Rest API](https://github.com/AlexandreSouzaRocha/typescript-rest-api) |
+| :-------------------------------------------------------------------------------: |
+| ![](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreSouzaRocha&repo=typescript-rest-api&theme=dracula&show_owner=true) |
 
 ---
 
@@ -80,17 +80,9 @@ Below we have the technologies used on the projects mentioned above.
 - Chai:
   - https://www.chaijs.com/
   - Download: https://www.npmjs.com/package/chai
-- AWS:
-  - Documentation: https://docs.aws.amazon.com/
-  - Lambda: https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
-  - API Gateway: https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html
-  - Cloudformation: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html
 - Serverless Framework:
   - Download: https://www.serverless.com/framework/docs/getting-started/
   - serverless.yml: https://www.serverless.com/framework/docs/providers/cloudflare/guide/intro/
-- Spring Boot:
-  - Version: `>=2.X`
-  - Download: https://spring.io/projects/spring-boot
 - Flask:
   - Version: `>=1.X`
   - Download: https://flask.palletsprojects.com/en/2.0.x/
