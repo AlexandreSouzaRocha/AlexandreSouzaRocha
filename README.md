@@ -47,7 +47,7 @@ Professional Qualification: https://www.linkedin.com/in/alexandre-rocha-308614b3
 
 | [NodeJS Rest API](https://github.com/AlexandreSouzaRocha/nodejs-rest-api) | [POC Factory Method](https://github.com/AlexandreSouzaRocha/poc-java-factory-pattern) |
 | :-----------------------------------------------------------------------: | :-------------------------------------------------------------------: |
-| ![](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreSouzaRocha&repo=nodejs-rest-api&theme=dracula&show_owner=true) |![](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreSouzaRocha&repo=java-rest-api&theme=dracula&show_owner=true) |
+| ![](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreSouzaRocha&repo=nodejs-rest-api&theme=dracula&show_owner=true) |![](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreSouzaRocha&repo=poc-java-factory-pattern&theme=dracula&show_owner=true) |
 
 <br/>
 
