@@ -20,7 +20,7 @@ Professional Qualification: https://www.linkedin.com/in/alexandre-rocha-308614b3
 <br>
 <div>
   <a href="https://www.linkedin.com/in/alexandre-rocha-308614b3/">
-  <img alt="LinkedIn Profile" height="42em" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&" />
+  <img alt="LinkedIn Profile" height="42em" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
   </a>
   <a href="https://www.instagram.com/4lexandre.sr/">
   <img alt="Instagram Profile" height="42em" src="https://i0.wp.com/trucao.com.br/wp-content/uploads/2018/07/instagram-logo.png?fit=1200%2C1200&ssl=1" />
