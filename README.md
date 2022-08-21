@@ -34,7 +34,7 @@ Professional Qualification: www.linkedin.com/in/alexandresouzarocha
 
 <br/>
 <div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreSouzaRocha&show_icons=true&theme=dracula&include_all_commits=false&count_private=true&custom_title=Github Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreSouzaRocha&show_icons=true&theme=dracula&include_all_commits=false&count_private=true&custom_title=Github%20Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSouzaRocha&lang_count=10&layout=compact&theme=dracula" />
 </div>
 <br/>
