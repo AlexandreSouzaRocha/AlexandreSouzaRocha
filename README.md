@@ -10,7 +10,7 @@ Full Name: Alexandre Souza Rocha
 Age: 21 Years
 Job Title: Software Engineer II
 Studying: Analysis and Systems Development - FATEC Carapicuíba
-Professional Qualification: https://www.linkedin.com/in/alexandre-rocha-308614b3/
+Professional Qualification: www.linkedin.com/in/alexandresouzarocha
 ```
 
 </b>
@@ -19,7 +19,7 @@ Professional Qualification: https://www.linkedin.com/in/alexandre-rocha-308614b3
 
 <br>
 <div>
-  <a href="https://www.linkedin.com/in/alexandre-rocha-308614b3/">
+  <a href="www.linkedin.com/in/alexandresouzarocha">
   <img alt="LinkedIn Profile" height="42em" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
   </a>
   <a href="https://www.instagram.com/4lexandre.sr/">
