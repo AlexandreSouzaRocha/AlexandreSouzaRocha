@@ -8,8 +8,8 @@
 ```text
 Full Name: Alexandre Souza Rocha
 Age: 22 Years
-Job Title: Software Engineer II
-Studying: Analysis and Systems Development - FATEC Carapicuíba
+Job Title: Senior Backend Developer
+Graduate: Analysis and Systems Development - FATEC Carapicuíba
 Professional Qualification: www.linkedin.com/in/alexandresouzarocha
 ```
 
