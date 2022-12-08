@@ -23,7 +23,7 @@ Professional Qualification: www.linkedin.com/in/alexandresouzarocha
   <img alt="LinkedIn Profile" height="42em" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
   </a>
   <a href="https://www.instagram.com/get.asr/">
-  <img alt="Instagram Profile" height="42em" src="https://i0.wp.com/trucao.com.br/wp-content/uploads/2018/07/instagram-logo.png?fit=1200%2C1200&ssl=1" />
+  <img alt="Instagram Profile" height="42em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/240px-Instagram_logo_2016.svg.png" />
   </a>
 </div>
 <br/>
