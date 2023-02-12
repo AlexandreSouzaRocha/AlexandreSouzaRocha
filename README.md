@@ -51,9 +51,10 @@ Professional Qualification: www.linkedin.com/in/alexandresouzarocha
 
 <br/>
 
-| [Typescript Rest API](https://github.com/AlexandreSouzaRocha/typescript-rest-api) |
-| :-------------------------------------------------------------------------------: |
-| ![](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreSouzaRocha&repo=typescript-rest-api&theme=dracula&show_owner=true) |
+| [Typescript Rest API](https://github.com/AlexandreSouzaRocha/typescript-rest-api) | [POC React Microfrontend](https://github.com/AlexandreSouzaRocha/poc-react-microfrontend) |
+| :-----------------------------------------------------------------------: | :-------------------------------------------------------------------: |
+| ![](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreSouzaRocha&repo=typescript-rest-api&theme=dracula&show_owner=true) |![](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreSouzaRocha&repo=poc-react-microfrontend&theme=dracula&show_owner=true) |
+
 
 ---
 
